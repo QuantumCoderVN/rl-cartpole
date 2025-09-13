@@ -1,18 +1,10 @@
-# Bỏ môi trường ảo (Python virtual environment)
+# ví dụ nội dung tối thiểu
 env/
 venv/
-
-# Bỏ các file cache Python
 __pycache__/
 *.pyc
-*.pyo
-
-# Bỏ notebook checkpoint
 .ipynb_checkpoints/
-
-# Bỏ model đã train (có thể rất nặng)
 models/
-
-# Bỏ file hệ điều hành
-.DS_Store
-Thumbs.db
+videos/
+*.mp4
+*.npz
